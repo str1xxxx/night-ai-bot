@@ -1,6 +1,8 @@
 import TelegramBot from "node-telegram-bot-api";
 import { Configuration, OpenAIApi } from "openai";
 
+// HELLO WORLD
+
 const configuration = new Configuration({
   apiKey: "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",
 });
